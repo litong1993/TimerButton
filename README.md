@@ -1,5 +1,4 @@
 #TimerButton
-====
 点击后显示倒计时的按钮，可用来做发送验证码的按钮。
 ![](/TimerButtton.gif)
 
